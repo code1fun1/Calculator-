@@ -5,7 +5,7 @@ The calculator allows users to perform basic arithmetic operations such as addit
 
 
 
-![Calculator Preview](https://github.com/Hunterdii/Codesoft-Tasks/assets/124852522/4fdc2119-bc23-4be2-bd0e-88036e96169b) 
+
 ## Features
 - **Responsive Design:** The calculator has a responsive design, making it suitable for various screen sizes.
 - **Basic Operations:** Users can perform addition, subtraction, multiplication, and division.
